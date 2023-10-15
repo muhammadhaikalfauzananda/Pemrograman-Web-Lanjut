@@ -1,6 +1,12 @@
-#Komponen yang menggunakan statefull dan stateless
-statefull : KontakForm dan KontakTable di file kontak-component 
-stateless : Header,Footer,ProfileText,dll
+## Komponen Stateful:
+- KontakForm
+- KontakTable
+
+## Komponen Stateless:
+- Header
+- Footer
+- ProfileText
+- Dan lain-lain
 
 # Getting Started with Create React App
 
