@@ -1,3 +1,7 @@
+#Komponen yang menggunakan statefull dan stateless
+statefull : KontakForm dan KontakTable di file kontak-component 
+stateless : Header,Footer,ProfileText,dll
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
