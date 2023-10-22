@@ -1,3 +1,13 @@
+## Komponen Stateful:
+- KontakForm
+- KontakTable
+
+## Komponen Stateless:
+- Header
+- Footer
+- ProfileText
+- Dan lain-lain
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
